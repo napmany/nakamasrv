@@ -1,0 +1,5 @@
+logger:
+  level: DEBUG
+runtime:
+  env:
+    - "filestorage_path=/nakama/data/filestorage"
